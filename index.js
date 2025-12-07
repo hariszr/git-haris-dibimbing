@@ -2,6 +2,6 @@ console.log("hello world")
 
 console.log("Hi new World")
 
-const name = "Haris"
+const name = "Haris Amin"
 
 console.log(name)
