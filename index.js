@@ -6,4 +6,5 @@ const name = "Haris Amin"
 
 console.log(name)
 
+console.log("test satu dua tiga")
 console.log("Login Required")
